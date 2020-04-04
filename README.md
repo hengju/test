@@ -9,6 +9,8 @@ Loughran and McDonald(2011) 금융분야 어휘사전 기반으로 뉴스의 감
 
 
 
+
+
 1. news_crawling.ipynb
 
 - 뉴스 데이터 수집. 뉴스 제목, 날짜, 링크 및 본문 내용 수집. CSV파일로 저장함 
